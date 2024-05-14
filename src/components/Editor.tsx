@@ -1,5 +1,5 @@
 'use client'
-import React, { useState, useContext, useEffect } from 'react';
+import { useState, useContext } from 'react';
 import { HtmlTreeContext } from '@/context/HtmlTreeContext';
 import { Node, NodeProps } from '@/types/Node';
 import NodePropertiesModal from '@/components/NodeModal';

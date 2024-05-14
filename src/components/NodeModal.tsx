@@ -1,5 +1,5 @@
 'use client'
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Node } from '@/types/Node';
 import { Delete } from '@/icons/delete';
 import { Plus } from '@/icons/plus';
